@@ -1,0 +1,4 @@
+Series,First month,Last month,Missing observations,Valid adjacent-month pairs
+S&P 500,1959-01,2026-07,0,810
+UNRATE,1959-01,2026-07,1,808
+FEDFUNDS,1959-01,2026-07,0,810
